@@ -1,0 +1,37 @@
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DELL>color a
+
+C:\Users\DELL>cd javacode
+
+C:\Users\DELL\javacode>javac soalnomer2.java
+
+C:\Users\DELL\javacode>java soalnomer2
+jawaban= 425
+
+C:\Users\DELL\javacode>javac soalnomer3.java
+
+C:\Users\DELL\javacode>java soalnomer3
+jawaban= 1235
+
+C:\Users\DELL\javacode>javac soalnomer4.java
+
+C:\Users\DELL\javacode>java soalnomer4
+jawaban= 40
+
+C:\Users\DELL\javacode>javac soalnomer5.java
+
+C:\Users\DELL\javacode>java soalnomer5
+jawaban= 1125
+
+C:\Users\DELL\javacode>javac soalnomer6
+error: Class names, 'soalnomer6', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\DELL\javacode>javac soalnomer6.java
+
+C:\Users\DELL\javacode>java soalnomer6
+jawaban= 5
+
+C:\Users\DELL\javacode>
