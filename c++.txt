@@ -1,0 +1,24 @@
+Pada kesempatan kali ini kita akan membahas Apa itu C++ dan Dev-C++, C++ sendiri merupakan bahasa pemrograman yang diciptakan pada tahun 1980, ketika Bjarne Stroustrup melakukan pekerjaan untuk memperoleh gelar Ph.D. sedangkan Dev-C++ adalah sebuah IDE (Integrated Development Environment) C / C++ yang sudah dilengkapi dengan TDM-GCC Compiler (bagian dari GNU Compiler Collection / GCC). baiklah langsung saja akan kita bahas materi Pengertian C++ dan Dev-C++.
+
+Apa itu Bahasa C++ ?
+Bahasa C++ adalah bahasa pemrograman komputer yang merupakan pengembangan dari bahasa C yang disempurnakan oleh Bjarne Stroustrup pada tahun 1980 menjadi C dengan kelas (C With Classes) dan berganti nama pada tahun 1983 menjadi C++. awalnya C++ disebut "a better C" kemudian berganti nama pada tahun 1983 menjadi C++. Symbol ++ merupakan operator C untuk operasi increment (penaikan), digunakan untuk menunjukkan bahwa bahasa baru ini merupakan versi yang lebih canggih dari C.
+Bahasa C++ diciptakan untuk mendukung pemrograman berorientasi objek (Object Oriented Pragramming / OOP) yang tidak dimiliki C. Sebenarnya reputasi C tidak diragukan lagi dalam menghasilkan program .EXE berukuran kecil, fleksibilitas pemrograman, eksekusi yang cepat dan antarmuka (interfacing) yang sederhana. namun C++ merupakan Superset dari C, dimana C++ dapat menjalankan sebagian besar (File Header / library) dari C, sedangkan C tidak bisa menjalankan / memanggil code (File Header / library) dari C++, Selain itu dengan adanya standarisasi ANSI pada C++, membuat bahasa C++ akan memiliki "bahasa" yang sama pada setiap compiler.
+
+Baca Juga : Pengertian dan Penjelasan Fitur-Fitur Yang Dimiliki C++
+
+Apa itu Dev-C++ ?
+Dev-C++ adalah sebuah IDE (Integrated Development Environment) C / C++ yang sudah dilengkapi dengan TDM-GCC Compiler (bagian dari GNU Compiler Collection / GCC). Dev-C++ merupakan IDE gratis dan full featur yang didistribusikan dibawah lisensi GNU General Public License untuk pemrograman C dan C++. IDE sendiri adalah Lembar kerja terpadu untuk pengembangan program.
+Versi Dev-C++ yang digunakan dalam penulisan program-program di materidosen.com adalah Dev-C++ 5.11, yang dirilis pada tanggal 27 april 2015. Compiler C++ yang digunakan dalam Dev-C++ 5.11 adalah TDM-GCC 4.9.2. (bagian dari GNU Compiler Collection / GCC). 
+
+Pada versi Dev-C++ yang lebih lama misal Dev-C++ 5.3.0.3 yang dirilis pada tanggal 11 November 2012, Compiler yang digunakan adalah MinGW (versi 4.7.0) namun untuk Dev-C++ keluaran diatas 25 Oktober 2014 Compiler yang digunakan adalah TDM-GCC (bagian dari GNU Compiler Collection / GCC). Hal tersebut karena TDM-GCC dianggap memiliki lebih banyak fitur, membutuhkan lebih sedikit ruang penyimpanan dan lebih sedikit kemungkinan terjadi crash.
+
+Dalam pembuatan program dengan bahasa C++, kami menyarankan sobat untuk menggunakan Dev-C++ dengan versi Dev-C++ 5.11 / yang lebih baru. Sobat dapat memperoleh informasi terbaru / mendapatkan Dev-C++ versi terbaru melalui blog di alamat web berikut orwelldevcpp.blogspot*com
+Fungsi IDE Dev-C++:
+1. Menulis Program / Source Code.
+2. Mengkompilasi Program (Compile)
+3. Melakukan Pengujian Program (Debugging)
+4. Mengaitkan Object dan Library ke Program (Linking)
+5. Menjalankan Program (Running)
+
+
+Sekian Artikel mengenai Apa itu C++ dan Dev-C++, semoga artikel ini dapat bermanfaat bagi sobat baik untuk menambah ilmu, mengerjakan tugas, maupun untuk sekedar menambah wawasan tentang Pengertian C++, Apa itu C++, C++ adalah, Apa itu Dev-C++, Dev-C++ adalah. Dan jika sobat menemukan kesalahan baik dari segi penjelasan maupun penulisan, mohon kritik dan saran yang membangun untuk kemajuan dan kebaikan bersama. Akhir kata, Terimakasih atas kunjungannya.
