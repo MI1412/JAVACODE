@@ -1,4 +1,4 @@
-class demoboolean1 {
+class DemoBoolean1 {
 	public static void main (String[] args) {
 		boolean b;
 		

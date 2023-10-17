@@ -1,12 +1,11 @@
-class demokarakter { 
+class demokarakter {
 	public static void main(String[] args) {
-		
-		char ch = z;
-		
-		System.out.println("ch = " + ch);
-		
-		ch--; //sama dengan ch = ch - 1;
-		
-		System.out.println("ch = " + ch);
+
+		char c = 1000  ;
+
+		System.out.println("cewek = " + ++c);
+
+		System.out.println("cowok = " + c++);
+
 	}
 }
