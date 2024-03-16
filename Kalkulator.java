@@ -16,7 +16,7 @@ public class Kalkulator {
         System.out.print("Bilangan 2 : ");
         double bilangan2 = imron.nextDouble();
 
-        System.out.print("Pilihan Operasi : ");
+        System.out.print("Pilih Operasi matematika : ");
         int pilihan = imron.nextInt();
 
         double hasil = 0;
