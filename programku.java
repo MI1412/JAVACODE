@@ -5,7 +5,7 @@
 */
 public class programku {
 	// eksekusi program akan dimulai dengan pemanggilan main()
-	public static void main (string[]args) {
-	system.out.printin("halo dunia");
+	public static void main (String[]args) {
+	System.out.println("halo dunia");
 	}
 }
